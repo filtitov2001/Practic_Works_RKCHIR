@@ -1,0 +1,193 @@
+div
+{
+    display: flex;
+    height: 250px;
+    width: 740px;
+}
+
+.strone
+{
+    height: 50px;
+    width: 530px;   
+}
+.strtwo
+{
+    float: left;
+    width: 800px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: -530px;
+}
+.firsttext
+{
+    height: 45px;
+    width: 220px;
+    float: left;
+}
+.secondtext
+{
+    margin: 10px;
+    background: #d8d8d8;
+    width: 225px;
+    height: 22px;
+    text-align: justify;
+    border-radius: 100px;
+    margin-top: 23px;  
+}
+.thirdtext
+{
+    margin: 10px;
+    background: #d8d8d8;
+    width: 85px;
+    height: 22px;
+    border-radius: 100px;
+    margin-top: 23px; 
+    margin-left: -1px;
+}
+
+.textfortime
+{
+    font-size: 11pt;
+    margin-left: 10px;
+    margin-top: 2px;
+    text-align: centre;
+}
+.weatherone
+{
+    margin-left: 9px;
+    width: 70px;
+    height: 150px;
+    float: left;
+}
+.datatext1
+{
+    height: 5px;
+    width: 70px;
+    font-size: 8pt;
+    margin-left: -55px;
+    margin-top: 20px;
+    color: rgb(150, 150, 150);
+}
+.png1
+{
+    height: 41px;
+    width: 41px;
+    margin-top: 40px;
+    margin-left: -70px;
+}
+.dayweather1
+{
+    height: 5px;
+    width: 70px;
+    margin-top: 90px;
+    margin-left: -40px;
+}
+.nighttext
+{
+    height: 5px;
+    width: 70px;
+    margin-top: 105px;
+    margin-left: -70px;
+    font-size: 8pt;
+    color: rgb(150, 150, 150);
+}
+.weathername
+{
+    height: 5px;
+    width: 50px;
+    margin-top: 125px;
+    margin-left: -70px;
+    font-size: 8pt;
+    color: rgb(150, 150, 150);
+}
+.weatherone:hover
+{
+    outline: 3px solid #818181;
+}
+.weathertwo
+{
+    width: 70px;
+    height: 150px;
+    margin-left: 9px;
+    float: left;
+}
+.datatext2
+{
+    height: 5px;
+    width: 70px;
+    font-size: 8pt;
+    margin-left: -20px;
+    margin-top: 20px;
+    color: rgb(150, 150, 150);
+}
+.weathertwo:hover
+{
+    outline: 3px solid #818181;
+}
+.weatherthree
+{
+    width: 70px;
+    height: 150px;
+    margin-left: 9px;
+    float: left;
+}
+.weatherthree:hover
+{
+    outline: 3px solid #818181;
+}
+.weatherfour
+{
+    width: 70px;
+    height: 150px;
+    margin-left: 9px;
+    float: left;
+}
+.weatherfour:hover
+{
+    outline: 3px solid #818181;
+}
+.weatherfive
+{
+    width: 70px;
+    height: 150px;
+    margin-left: 9px;
+    float: left;
+}
+.weatherfive:hover
+{
+    outline: 3px solid #818181;
+}
+.weathersix
+{
+    width: 70px;
+    height: 150px;
+    margin-left: 9px;
+    float: left; 
+}
+.weathersix:hover
+{
+    outline: 3px solid #818181;
+}
+.weatherseven
+{
+    width: 70px;
+    height: 150px;
+    margin-left: 9px;
+    float: left;
+    
+}
+.weatherseven:hover
+{
+    outline: 3px solid #818181;
+}
+.weathereight
+{
+    width: 70px;
+    height: 150px;
+    margin-left: 9px;
+    float: left;
+}
+.weathereight:hover
+{
+    outline: 3px solid #818181;
+}

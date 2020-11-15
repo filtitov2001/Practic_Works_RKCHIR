@@ -1,0 +1,62 @@
+.battery {
+  
+  width: 140px;
+  height: 40px;
+  margin-bottom: 5px;
+  border: 5px solid #626262;
+  border-radius: 10px;
+  position: relative;
+}
+
+}
+.red,
+.yellow,
+.green {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  
+}
+.yellow,
+.green,
+.red {
+  position: absolute;
+
+  color: black;
+  bottom: 0px;
+}
+.yellow div,
+.red div,
+.green div {
+  
+  padding: 4.5px;
+  margin: 1.5px;
+  border: 1px solid #000000;
+  float:left;
+  height: 25px;
+  border-radius: 100px;
+
+}
+.yellow div {
+  
+  background-color: #ffc607;
+}
+.red div {
+  background-color: red;
+}
+.green div {
+  background-color: green;
+}
+
+.battery::after {
+  margin-left: 145px;
+  margin-top: 23px;
+  position: absolute;
+  content: '';
+  width: 7px;
+  height: 20px;
+  background: #626262;
+  top: -15px;
+  border-radius: 100px;
+}
+

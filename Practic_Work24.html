@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+     <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <title>Практическая работа 24</title>
+     </head>
+     <body>
+        <canvas id="canvas1" width="500" height="150" style="border: 1px solid #83009b;"></canvas>
+        <canvas id="canvas2" width="190" height="150" style="border: 1px solid #4700cc;"></canvas>
+         <script>
+            var canvas = document.getElementById("canvas1");
+             var ctx = canvas.getContext("2d");
+             ctx.font = "30px Arial";
+             ctx.strokeText("Титов Феликс Александрович",35,80);
+         </script>
+         <script>
+            var canvas = document.getElementById("canvas2");
+             var ctx = canvas.getContext("2d");
+             ctx.beginPath;
+             
+             ctx.arc(90,75,70,0,Math.PI*2,true);
+             ctx.moveTo(125,75);
+             ctx.arc(90,75,35,0,Math.PI*2,false);
+             ctx.stroke();
+             
+         </script>
+         
+     </body>
+</html>

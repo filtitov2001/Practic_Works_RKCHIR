@@ -1,0 +1,62 @@
+.div1{
+    color:black;
+    float:left;
+    background:#ff0000;
+    line-height: 1.25;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.div2{
+    color:white;
+    background:#ff0000;
+    line-height: 1.25;
+    font-weight: 900;
+    font-size: 24px;
+    width: 1000px;
+}
+
+.div3{
+    background:black;
+    width: 500px;
+    height: 300px;
+    float:left;
+   
+}
+
+.div4{
+    color: white;
+}
+
+.div5{
+    font: left;
+    margin-left: 30px;
+    width: 200px;
+}
+
+.div6{
+
+    background:#ff0000;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+}
+
+.div7{
+    color: black;
+}
+
+.div8{
+    float: left;
+}
+
+.div9{
+    text-decoration: underline;
+    color: white;
+}
+
+.div10{
+    font-style: italic;
+    background: red;
+    width: 1000px;
+}

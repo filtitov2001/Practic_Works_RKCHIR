@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6241f2c2-7f57-434c-805b-cbd519e94ba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/Practic_Work31.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practic_Work31/javascript9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/Practic_Work32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work32/javascript8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605449135771</updated>
       <workItem from="1605449136801" duration="8458000" />
-      <workItem from="1605525196757" duration="13247000" />
+      <workItem from="1605525196757" duration="15832000" />
     </task>
     <task id="LOCAL-00001" summary="+29 +30">
       <created>1605531544248</created>
@@ -75,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605531544248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+31">
+      <created>1605549090215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605549090215</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +84,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+29 +30" />
-    <option name="LAST_COMMIT_MESSAGE" value="+29 +30" />
+    <MESSAGE value="+31" />
+    <option name="LAST_COMMIT_MESSAGE" value="+31" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="493" y="145" key="CommitChangelistDialog2" timestamp="1605531544026">
+    <state x="493" y="145" key="CommitChangelistDialog2" timestamp="1605549090079">
       <screen x="0" y="25" width="1792" height="1016" />
     </state>
-    <state x="493" y="145" key="CommitChangelistDialog2/0.25.1792.1016@0.25.1792.1016" timestamp="1605531544025" />
+    <state x="493" y="145" key="CommitChangelistDialog2/0.25.1792.1016@0.25.1792.1016" timestamp="1605549090079" />
     <state x="1207" y="675" key="Github.ShareDialog" timestamp="1605449650006">
       <screen x="0" y="25" width="1792" height="1016" />
     </state>
@@ -102,9 +104,9 @@
       <screen x="0" y="25" width="1792" height="1016" />
     </state>
     <state x="437" y="123" key="SettingsEditor/0.25.1792.1016@0.25.1792.1016" timestamp="1605449586173" />
-    <state x="527" y="309" key="Vcs.Push.Dialog.v2" timestamp="1605531555802">
+    <state x="527" y="309" key="Vcs.Push.Dialog.v2" timestamp="1605549095323">
       <screen x="0" y="25" width="1792" height="1016" />
     </state>
-    <state x="527" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1016@0.25.1792.1016" timestamp="1605531555802" />
+    <state x="527" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1016@0.25.1792.1016" timestamp="1605549095323" />
   </component>
 </project>

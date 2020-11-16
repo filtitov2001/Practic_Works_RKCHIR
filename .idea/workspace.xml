@@ -1,21 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6241f2c2-7f57-434c-805b-cbd519e94ba8" name="Default Changelist" comment="" />
+    <list default="true" id="6241f2c2-7f57-434c-805b-cbd519e94ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/Practic_Work29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work29/javascript9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work30/Practic_Work30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work30/javascript1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work30/javascript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work30/javascript3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work30/javascript4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work30/javascript5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practic_Work30/javascript6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kKVBaye3V3aVFzdFtguA7P9mu9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -27,7 +70,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605449135771</updated>
-      <workItem from="1605449136801" duration="417000" />
+      <workItem from="1605449136801" duration="8458000" />
+      <workItem from="1605525196757" duration="3379000" />
     </task>
     <servers />
   </component>
@@ -35,6 +79,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1207" y="675" key="Github.ShareDialog" timestamp="1605449650006">
+      <screen x="0" y="25" width="1792" height="1016" />
+    </state>
+    <state x="1207" y="675" key="Github.ShareDialog/0.25.1792.1016@0.25.1792.1016" timestamp="1605449650006" />
+    <state x="1037" y="459" key="Github.UntrackedFilesDialog" timestamp="1605449661678">
+      <screen x="0" y="25" width="1792" height="1016" />
+    </state>
+    <state x="1037" y="459" key="Github.UntrackedFilesDialog/0.25.1792.1016@0.25.1792.1016" timestamp="1605449661678" />
     <state x="437" y="123" key="SettingsEditor" timestamp="1605449586173">
       <screen x="0" y="25" width="1792" height="1016" />
     </state>
